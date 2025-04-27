@@ -1,5 +1,5 @@
 
-# 📱 Arra MVP
+# 📱 Stash MVP
 
 > React Native mobile application powered by **Expo**.  
 > Ready to run on **Android** and **iOS** simulators or physical devices.
@@ -33,13 +33,13 @@ expo --version
 
 ### 3. Create Project (already done)
 ```bash
-expo init arra-mvp
+expo init Stash
 ```
 Choose **blank** template.
 
 Navigate into project:
 ```bash
-cd arra-mvp
+cd Stash
 ```
 
 ---
@@ -133,7 +133,7 @@ This will open the **Expo DevTools** in your browser.
 ## 📂 Project Structure
 
 ```
-/arra-mvp
+/Stash
   /assets             # images, fonts, etc.
   /screens            # app screens
   App.js              # main entry
