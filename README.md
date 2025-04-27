@@ -1,5 +1,5 @@
 
-# 📱 Stash MVP
+# 📱 Stash
 
 > React Native mobile application powered by **Expo**.  
 > Ready to run on **Android** and **iOS** simulators or physical devices.
